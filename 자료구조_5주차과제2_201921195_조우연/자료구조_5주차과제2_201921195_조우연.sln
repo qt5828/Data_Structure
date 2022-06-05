@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "자료구조_5주차과제2_201921195_조우연", "자료구조_5주차과제2_201921195_조우연\자료구조_5주차과제2_201921195_조우연.vcxproj", "{83A3CFC5-2159-4BB0-9A9A-622D1667EC02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A3CFC5-2159-4BB0-9A9A-622D1667EC02}.Debug|x64.ActiveCfg = Debug|x64
+		{83A3CFC5-2159-4BB0-9A9A-622D1667EC02}.Debug|x64.Build.0 = Debug|x64
+		{83A3CFC5-2159-4BB0-9A9A-622D1667EC02}.Debug|x86.ActiveCfg = Debug|Win32
+		{83A3CFC5-2159-4BB0-9A9A-622D1667EC02}.Debug|x86.Build.0 = Debug|Win32
+		{83A3CFC5-2159-4BB0-9A9A-622D1667EC02}.Release|x64.ActiveCfg = Release|x64
+		{83A3CFC5-2159-4BB0-9A9A-622D1667EC02}.Release|x64.Build.0 = Release|x64
+		{83A3CFC5-2159-4BB0-9A9A-622D1667EC02}.Release|x86.ActiveCfg = Release|Win32
+		{83A3CFC5-2159-4BB0-9A9A-622D1667EC02}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA8E276C-E365-4069-8B28-8C83F2A9713D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+﻿  minimumCostSpanningTree.c
+C:\Users\user\Desktop\자료구조\자료구조_9주차과제3_201921195_조우연\자료구조_9주차과제3_201921195_조우연\minimumCostSpanningTree.c(65,11): warning C4101: 'n2' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\자료구조_9주차과제3_201921195_조우연\자료구조_9주차과제3_201921195_조우연\minimumCostSpanningTree.c(65,7): warning C4101: 'n1' :참조되지 않은 지역 변수입니다.
+C:\Users\user\Desktop\자료구조\자료구조_9주차과제3_201921195_조우연\자료구조_9주차과제3_201921195_조우연\minimumCostSpanningTree.c(94,7): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Desktop\자료구조\자료구조_9주차과제3_201921195_조우연\자료구조_9주차과제3_201921195_조우연\minimumCostSpanningTree.c(82): warning C4716: 'Kruskal': 값을 반환해야 합니다.
+  자료구조_9주차과제3_201921195_조우연.vcxproj -> C:\Users\user\Desktop\자료구조\자료구조_9주차과제3_201921195_조우연\Debug\자료구조_9주차과제3_201921195_조우연.exe
